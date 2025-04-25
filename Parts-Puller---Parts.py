@@ -170,6 +170,20 @@ def main():
             ("https://www.fcpeuro.com/products/bmw-emblem-rear-trunk-lid-51148219237", "Rear Trunk Lid Emblem"),
             ("https://www.fcpeuro.com/products/fuel-system-cleaner-500ml-can-liqui-moly-lm2030", "Fuel System Cleaner"),
         ],
+        "991 GT3": [
+            ("https://www.fcpeuro.com/products/porsche-center-lock-wheel-nut-kit-genuine-porsche-99136108190kt4"),
+            ("https://www.fcpeuro.com/products/porsche-wheel-bearing-kit-aftermarket-95834190100"),
+            ("https://www.fcpeuro.com/products/bosch-windshield-wiper-set-bmw-porsche-land-rover-bosch-3397007697"),
+            ("https://www.fcpeuro.com/products/porsche-engine-oil-change-kit-5w-40-liqui-moly-991gt3oilkt7"),
+            ("https://www.fcpeuro.com/products/volvo-mercedes-benz-serpentine-belt-slk230-960-s90-v90-6pk1755"),
+            ("https://www.fcpeuro.com/products/porsche-air-filter-hengst-e1722l"),
+            ("https://www.fcpeuro.com/products/porsche-cabin-air-filter-hengst-e3940lb"),
+            ("https://www.fcpeuro.com/products/porsche-cabin-air-filter-hengst-e3945lb"),
+            ("https://www.fcpeuro.com/products/porsche-brake-kit-sebro-991gt3brkt8"),
+            ("https://www.fcpeuro.com/products/porsche-center-lock-wheel-socket-cta-5016"),
+            ("https://www.fcpeuro.com/products/porsche-center-lock-wheel-center-cap-removal-tool-genuine-porsche-99136107900"),
+            ("https://www.fcpeuro.com/products/porsche-dual-clutch-transmission-service-kit-liqui-moly-9g132102500kt1")
+        ],
         "9th Gen Accord": [
             ("https://www.fcpeuro.com/products/headlight-light-bulb-upgrade-philips-crystalvision-h11cvps2", "Headlight Upgrade Bulb")
         ]

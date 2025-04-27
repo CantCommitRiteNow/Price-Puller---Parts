@@ -2,3 +2,4 @@ requests
 lxml
 openpyxl
 pytz
+openai
